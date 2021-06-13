@@ -1,10 +1,11 @@
 # Machine-learning-and-AI-Lab
 This repo consists of execution of all termworks done for this Lab.
 
-# Airtficial Intelligence and Machine Learning Lab
 
-<br> List of experiments
-PART-A (Core Concepts)
+
+## List of experiments ##
+
+## PART-A (Core Concepts)
 tw1: Implement DFID algorithm and compare its performance with DFS and BFS algorithm
 
 tw2: Implement Best-First Search algorithm
@@ -15,7 +16,7 @@ tw4: Implementation of XOR Gate using a) Multi-layer perceptron/Error back propa
 
 tw5: Implement Hebbian learning rule and Correlation learning rule
 
-PART-B (Applications)
+## PART-B (Applications)
 tw1: Implement Find-S and candidate elimination algorithms
 
 tw2: Build a linear regression model housing prices
