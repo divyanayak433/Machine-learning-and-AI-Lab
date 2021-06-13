@@ -1,7 +1,9 @@
 # Machine-learning-and-AI-Lab
 This repo consists of execution of all termworks done for this Lab.
-Airtficial Intelligence and Machine Learning Lab
-List of experiments
+
+# Airtficial Intelligence and Machine Learning Lab
+
+<br> List of experiments
 PART-A (Core Concepts)
 tw1: Implement DFID algorithm and compare its performance with DFS and BFS algorithm
 
