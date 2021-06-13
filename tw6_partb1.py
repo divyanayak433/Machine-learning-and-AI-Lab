@@ -9,7 +9,7 @@ Original file is located at
 
 import numpy as np
 import pandas as pd
-data = pd.read_csv(r'/home/gpkulam/projects/AIML_Lab/Assets/candidate.csv')
+data = pd.read_csv('filepath')
 concepts = np.array(data.iloc[:,0:-1])
 print("\nInstances are:\n",concepts)
 target = np.array(data.iloc[:,-1])
